@@ -1,0 +1,3 @@
+[
+  { "keys": ["super+j"], "command": "coffee_script_to_java_script" }
+]
